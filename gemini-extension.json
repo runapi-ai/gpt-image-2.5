@@ -1,0 +1,10 @@
+{
+  "name": "gpt-image-2.5",
+  "version": "0.1.1",
+  "description": "RunAPI GPT Image 2.5 skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+  "skills": [
+    {
+      "path": "skills/gpt-image-2.5/SKILL.md"
+    }
+  ]
+}
